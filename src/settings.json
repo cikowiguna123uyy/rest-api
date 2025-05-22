@@ -1,22 +1,22 @@
 {
-  "name": "Zecho Api",
+  "name": "Api Whatsapp Wafa Offc",
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
     "status": "Active!"
   },
   "apiSettings": {
-    "creator": "Zecho", 
-    "apikey": ["new"]
+    "creator": "Wafa Hosting", 
+    "apikey": ["kontol"]
   },
   "links": [
     {
-      "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "name": "Telegram",
+      "url": "https://t.me/XxzWafaOffc"
     },
     {
       "name": "Contact Me",
-      "url": "https://whatsapp.com/channel/0029Vb631gEAO7RHH7juYl1M"
+      "url": "https://wa.me/6288224838151"
     }
   ],
   "categories": [
