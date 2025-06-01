@@ -3,9 +3,7 @@
   "version": "v3.0.0",
   "description": "Simple and easy to use API for WhatsApp Bot feature.",
   "header": {
-    "status": "Active!"
-    "imageSrc": {
-    "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+    "status": "Active Now!", 
   },
   "apiSettings": {
     "creator": "Wafa Hosting", 
@@ -44,13 +42,13 @@
           "name": "Create Payment",
           "desc": "Create qris payment", 
           "path": "/orderkuota/createpayment?apikey=&amount=&codeqr=", 
-          "innerDesc": "Buy apikey >> wa.me/6285194164810"
+          "innerDesc": "Buy apikey >> wa.me/6288224838151"
         },
         {
           "name": "Cek Status",
           "desc": "Cek status payment", 
           "path": "/orderkuota/cekstatus?apikey=&merchant=&keyorkut=", 
-          "innerDesc": "Buy apikey >> wa.me/6285194164810"          
+          "innerDesc": "Buy apikey >> wa.me/6288224838151"          
         }
       ]
     },    
